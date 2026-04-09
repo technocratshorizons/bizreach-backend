@@ -1,0 +1,10 @@
+{
+  "name": "bizreach-backend",
+  "type": "module",
+  "scripts": { "start": "node whatsapp-agent-backend.js" },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2",
+    "googleapis": "^128.0.0"
+  }
+}
